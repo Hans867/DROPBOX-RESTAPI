@@ -33,4 +33,11 @@ https://api.dropboxapi.com/2/files/search_v2
 
 Øvelse 8: Flyt en fil
 
+https://api.dropboxapi.com/2/files/move_batch_v2
+
+Jeg flyttede en mappe i stedet
+
+Øvelse 9: Kopier en fil
+
+https://api.dropboxapi.com/2/files/copy_v2
 
